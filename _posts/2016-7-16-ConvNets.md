@@ -7,7 +7,7 @@ excerpt: An intuitive explanation of what how one of the most powerful tools in 
 **Introduction**
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Facebook_New_Logo_(2015).svg/220px-Facebook_New_Logo_(2015).svg.png){width="2.2930555555555556in"
-height="0.8604166666666667in"}![](media/image2.jpeg){width="1.6603521434820647in"
+height="0.8604166666666667in"}![](http://yakketyyakllc.com/wp-content/uploads/2014/11/Pinterest_logo-3.jpg){width="1.6603521434820647in"
 height="1.1046511373578303in"}Convolutional neural networks. Sounds like
 a weird combination of biology with a little math and CS sprinkled in,
 but these networks have been some of the most influential innovations in
@@ -22,10 +22,10 @@ their photo search, Amazon for their product recommendations, Pinterest
 for their home feed personalization, and Instagram for their search
 infrastructure.
 
-![](media/image3.png){width="1.8625in" height="1.8604166666666666in"}
+![](http://g-ec2.images-amazon.com/images/G/01/social/api-share/amazon_logo_500500._V323939215_.png){width="1.8625in" height="1.8604166666666666in"}
 
-![](media/image4.jpeg){width="2.451048775153106in"
-height="1.37209208223972in"}![](media/image5.jpeg){width="1.5951388888888889in"
+![](http://mobilemarketingwatch.com/wp-content/uploads/2016/01/Is-Google-Searching-for-the-Next-Big-Thing1.jpg){width="2.451048775153106in"
+height="1.37209208223972in"}![](http://blogs-images.forbes.com/fruzsinaeordogh/files/2016/05/instagram.jpeg){width="1.5951388888888889in"
 height="1.1625in"}
 
 However, the classic and arguably the most popular use case of these
