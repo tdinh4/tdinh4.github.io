@@ -1,6 +1,12 @@
+---
+layout: post
+title: ConvNets
+excerpt: An intuitive explanation of what how one of the most powerful tools in computer vision works. 
+---
+
 **Introduction**
 
-![](media/image1.png){width="2.2930555555555556in"
+![](http://blogs-images.forbes.com/fruzsinaeordogh/files/2016/05/instagram.jpeg){width="2.2930555555555556in"
 height="0.8604166666666667in"}![](media/image2.jpeg){width="1.6603521434820647in"
 height="1.1046511373578303in"}Convolutional neural networks. Sounds like
 a weird combination of biology with a little math and CS sprinkled in,
