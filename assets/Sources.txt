@@ -1,3 +1,4 @@
+•	https://flickrcode.files.wordpress.com/2014/10/conv-net2.png
 •	http://blogs-images.forbes.com/fruzsinaeordogh/files/2016/05/instagram.jpeg
 •	http://yakketyyakllc.com/wp-content/uploads/2014/11/Pinterest_logo-3.jpg
 •	https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Facebook_New_Logo_(2015).svg/220px-Facebook_New_Logo_(2015).svg.png
@@ -6,7 +7,7 @@
 •	http://www.pawbuzz.com/wp-content/uploads/sites/551/2014/11/corgi-puppies-21.jpg
 •	http://i.stack.imgur.com/vYju7.png
 •	https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Simple_mouse.svg/479px-Simple_mouse.svg.png
-•	http://neuralnetworksanddeeplearning.com/chap6.html
+•	http://neuralnetworksanddeeplearning.com/images/tikz44.png
 •	http://cs231n.github.io/assets/cnnvis/filt1.jpeg
 •	http://i.stack.imgur.com/Nskzd.png
 •	http://www.webpages.ttu.edu/dleverin/neural_network/fig_3p10_DESC3.jpg
