@@ -25,7 +25,7 @@ images:
 <p>The formula for calculating the output size for any given conv layer is</p>
 <p>&nbsp;</p>
 <img src="/assets/Output.png">
-<p>where O is the output size, K is the filter size, P is the padding, and S is the stride.</p>
+<p>where O is the output height/length, W is the input height/length, K is the filter size, P is the padding, and S is the stride.</p>
 <p><strong>Choosing Hyperparameters</strong></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; How do we know how many layers to use, how many conv layers, what are the filter sizes, or the values for stride and padding? These are not trivial questions and there isn&rsquo;t a set standard that is used by all researchers. This is because the network will largely depend on the type of data that you have. Data can vary by size, complexity of the image, type of image processing task, and more. When looking at your dataset, one way to think about how to choose the hyperparameters is to find the right combination that creates abstractions of the image at a proper scale.</p>
 <p><strong>ReLU (Rectified Linear Units) Layers</strong></p>
