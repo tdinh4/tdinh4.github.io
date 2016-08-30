@@ -10,4 +10,4 @@ I'm passionate about applying my knowledge of computer science and machine learn
 
 ### Contact me
 
-[adeshpande3@g.ucla.edu](mailto:adeshpande3@g.ucla.edu)
+[adeshpande3@ucla.edu](mailto:adeshpande3@ucla.edu)
