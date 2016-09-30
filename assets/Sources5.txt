@@ -1,0 +1,3 @@
+http://labrosa.ee.columbia.edu/cuneuralnet/denton121615.pdf
+
+All other images are from the respective papers. 
