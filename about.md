@@ -8,6 +8,8 @@ I'm a second year undergraduate student currently studying at UCLA. I'm majoring
 
 I'm passionate about applying my knowledge of computer science and machine learning to areas in healthcare where we can really engineer better solutions for helping doctors and taking care of patients. 
 
+Actively looking for an internship in the summer of 2017.
+
 ### Contact me
 
 [adeshpande3@ucla.edu](mailto:adeshpande3@ucla.edu)
