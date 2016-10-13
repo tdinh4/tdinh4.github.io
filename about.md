@@ -14,4 +14,4 @@ Actively looking for an internship in the summer of 2017.
 
 ### Contact me
 
-[adeshpande3@ucla.edu](mailto:adeshpande3@ucla.edu)
+[adeshpande3@g.ucla.edu](mailto:adeshpande3@g.ucla.edu)
