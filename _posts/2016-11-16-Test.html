@@ -1,13 +1,13 @@
 ---
 layout: post
-published: false
+published: true
 excerpt: An introduction to Reinforcement Learning and a look of two of the most important papers
 permalink: /Deep-Learning-Research-Review-Week-2-Reinforcement-Learning
 images:
   - url: /assets/Cover6th.png
 ---
 <link href="https://afeld.github.io/emoji-css/emoji.css" rel="stylesheet">
-<img src="/assets/Cover5th.png">
+<img src="/assets/Cover6th.png">
 <p><em>This is the 2<sup>nd</sup> installment of a new series called Deep Learning Research Review. Every couple weeks or so, I&rsquo;ll be summarizing and explaining research papers in specific subfields of deep learning. This week focuses on Reinforcement Learning. </em><a href="https://adeshpande3.github.io/adeshpande3.github.io/Deep-Learning-Research-Review-Week-1-Generative-Adversarial-Nets"><em>Last time</em></a><em> was Generative Adversarial Networks ICYMI</em></p>
 <h2><strong>Introduction to Reinforcement Learning</strong></h2>
 <p><span style="text-decoration: underline;">3 Categories of Machine Learning</span></p>
@@ -89,6 +89,7 @@ images:
 <p>Now that we have these main two networks, our final step is to use a <strong>Monte Carlo Tree Search</strong> to put everything together. The basic idea behind MCTS is that it selects the best actions through lookahead search where each edge in the tree stores an action value Q, a visit count, and a prior probability. From that info, the MCTS algorithm will pick the best action A from the current state. This part of the system is a little less RL and more traditional AI so if you&rsquo;d like more details, definitely check out the paper, which will do a much better job of summarizing.</p>
 <p><span style="text-decoration: underline;">Conclusion</span></p>
 <p>A computer system just beat the world&rsquo;s best player at one of the hardest board games ever. Who even needs a conclusion?</p>
+<iframe src="//giphy.com/embed/3o7qDSOvfaCO9b3MlO?html5=true" width="480" height="342" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="http://giphy.com/gifs/obama-mic-drop-out-3o7qDSOvfaCO9b3MlO">via GIPHY</a></p>
 <p><strong>Big thanks to David Silver for the equations and the excellent lecture course on RL</strong></p>
 <p>Dueces. <i class="em em-v"></i></p>
 <a href = "/assets/Sources6.txt" target= "_blank"> Sources</a>
