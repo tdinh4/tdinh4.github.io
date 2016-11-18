@@ -20,22 +20,15 @@ function tableCreate(){
     tbl.style.width  = '100px';
     tbl.style.border = '1px solid black';
 
-    for(var i = 0; i < 3; i++){
-        var tr = tbl.insertRow();
-        for(var j = 0; j < 2; j++){
-            if(i == 2 && j == 1){
-                break;
-            } else {
-                var td = tr.insertCell();
-                td.appendChild(document.createTextNode('Cell'));
-                td.style.border = '1px solid black';
-                if(i == 1 && j == 1){
-                    td.setAttribute('rowSpan', '2');
-                }
-            }
+    var tr = tbl.insertRow();
+    for(var i = 0; i < 5; i++){
+        var td = tr.insertCell();
+        if(i == 4){
+            td.appendChild(document.createTextNode('1'));
+        }else{
+            td.appendChild(document.createTextNode('0'));
         }
-    }
-    body.appendChild(tbl);
+    }    
 }
 tableCreate();
 </script>
