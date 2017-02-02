@@ -6,7 +6,7 @@ permalink: /projects/
 
 iPython Notebook Tutorials
 ====================
-![alt text](/assets/tf.jpg "Logo Title Text 1")
+![alt text](/assets/tf.jpg) Convolutional Neural Network Tutorial
 
 React Web Apps
 ====================
