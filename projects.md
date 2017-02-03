@@ -5,8 +5,9 @@ permalink: /projects/
 
 iPython Notebook Tutorials
 ====================
-![alt text](/assets/tf.jpg) 
-<a href="https://github.com/adeshpande3/TensorflowStuff/blob/master/ConvolutionalNeuralNet.ipynb" target="_blank">Convolutional Neural Network Tutorial</a> 
+![<a href="https://github.com/adeshpande3/TensorflowStuff/blob/master/ConvolutionalNeuralNet.ipynb" target="_blank">Convolutional Neural Network Tutorial</a> <br></br><a href="https://github.com/adeshpande3/Generative-Adversarial-Networks" target="_blank">Generative Adversarial Network Tutorial</a> ](/assets/tf.jpg) 
+
+
 
 React Web Apps
 ====================
