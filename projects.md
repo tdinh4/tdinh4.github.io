@@ -25,6 +25,11 @@ Kaggle Competitions
 <br><br><a href="https://github.com/adeshpande3/Kaggle-MNIST" target="_blank">**Kaggle MNIST**</a> - The Kaggle MNIST competiiton is a quite standard benchmark for all computer vision models. MNIST is a dataset of handwritten digits, and the overall goal is to have the model classify each image as a digit from 0-9. For this competition, I used a convolutional neural network written in Keras. The model gets an accuracy of 98.63%.
 <br><br><a href="https://github.com/adeshpande3/KaggleGhosts" target="_blank">**Kaggle Ghosts**</a> - This playground competition was a little different in that it involved a "fake" dataset and task. The goal was to take in features of different fantasy monsters (Ghoust, Ghool, or Goblin), and output the most likely classification. Some of the features included hair length, bone length and color. An SVM proved to work the best as I was able to achieve a 73.54% accuracy. I used Numpy, Pandas, and Matplotlib to help visualize the data and features. 
 
+Other Tutorials
+====================
+
+<a href="https://github.com/adeshpande3/Pandas-Tutorial/blob/master/Pandas%20Tutorial.ipynb" target="_blank">**Pandas Tutorial**</a> - Pandas is the one of the most popular Python libraries as it can be lots for a variety of different data sience tasks. From describing data structures to introducing the most important functions, this tutorial is a great starting point for anyone looking to start using Pandas. 
+
 React Web Apps
 ====================
 
