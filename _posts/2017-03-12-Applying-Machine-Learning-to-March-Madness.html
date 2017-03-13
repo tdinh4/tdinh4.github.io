@@ -80,19 +80,20 @@ images:
 <li>Location (-1 for if Team 1 is away, 0 for neutral, and 1 for if Team 1 is home): 1</li>
 </ul>
 <p>To create our representation for the 2016 Kansas Jayhawks, we can just concatenate all the features into a 16 dimensional vector.</p>
-<p>Now, let&rsquo;s do the same with another team from the 2016 season.</p> 
-<img src="/assets/MM8.png"> 
-<p>The Oklahoma Sooners, led by NBA first round draft pick Buddy Hield, had an incredible season, winning 25 games in the regular season, and coming away with a #2 seed in the tourney. We can see Oklahoma&rsquo;s vector below.</p>
+<img src="/assets/MM8.png">
+<p>Now, let’s do the same with another team from the 2016 season, the Oklahoma Sooners.</p> 
 <img src="/assets/MM9.png">
+<p>The Sooners, led by NBA first round draft pick Buddy Hield, had an incredible season, winning 25 games in the regular season, and coming away with a #2 seed in the tourney. We can see Oklahoma’s vector below. </p>
+<img src="/assets/MM10.png">
 <p>We can think of coming up with team vectors as similar to the idea of using word vectors in deep learning approaches to NLP. Before feeding the input through a RNN or LSTM, we first have to transform our sentence or phrase into a usable representation.</p>
 <p>Looking at the task of sports game prediction, let&rsquo;s think about what we want our model to do. Since ML models normally take a single input, we can represent each matchup as the difference between the two team vectors (Team 1 vector - Team 2 vector). This is one way of representing the matchup. While some may choose to concatenate the two vectors instead, taking the difference helps to emphasize the ways that the teams are dissimilar from one another, which could help in determining the types of stats that are influential to the outcome of a matchup.</p>
-<img src="/assets/MM10.png">
+<img src="/assets/MM11.png">
 <p>Our model will take in this difference vector, and output the probability that Team 1 wins the matchup.</p>
 <p>The way that we train this model is by looking at the outcomes of past regular season games, and by looking at the team vectors of the two competing teams. Let&rsquo;s take a look an actual training example to make this clearer.</p>
 <p>Oklahoma and Kansas met twice in the 2016 regular season. The first meeting, played at the famous Allen Fieldhouse in Kansas, ended up being one of the greatest college basketball regular season games of all time.</p>
-<img src="/assets/MM11.png">
-<p>#1 vs #2. Triple Overtime. Yeah, that game was intense. It&rsquo;s going to be one of many games in our training data. How will this particular game look like?</p>
 <img src="/assets/MM12.png">
+<p>#1 vs #2. Triple Overtime. Yeah, that game was intense. It&rsquo;s going to be one of many games in our training data. How will this particular game look like?</p>
+<img src="/assets/MM13.png">
 <p>Make sense? The X component of every training example will be the difference between the two team vectors for that season. The Y component of the training example will be either [1] or [0], representing if Team 1 won or if Team 2 won, respectively.</p>
 <p>The <a href="https://www.kaggle.com/c/march-machine-learning-mania-2017/data"  target="_blank">Kaggle dataset</a> and stats from <a href="http://www.sports-reference.com/cbb/" target="_blank">Sports-Reference</a> had regular season and tournament data from the 1993 season onwards. From 1993 to 2016, there were over 115,000 games played. Our dimensionality for xTrain will be 115113 x 16 and 115113 x 1 for yTrain.</p>
 <h2><span style="text-decoration: underline;"><strong>Applying ML Algorithms</strong></span></h2>
@@ -100,7 +101,7 @@ images:
 <p>Whenever you&rsquo;re first starting out with a dataset and a prediction task, <strong>always try out a very simple model </strong>(e.g Linear/Logistic Regression or Decision Trees or KNN) before experimenting with more complex neural network and ensemble approaches. After splitting the training data into train and sets, we train the model (using <a href="http://scikit-learn.org/stable/" target="_blank">Scikit-Learn</a> functions), and evaluate it on the test set.</p>
 <p>The test set contained 28,779 games and our best model correctly predicted 21,958 of them, an accuracy of 76.30%.</p>
 <p>Not too bad right? Below, you can see a table of how well a bunch of our models performed. To ensure that a model didn&rsquo;t just get lucky with easy games to classify, we evaluated the models 100 times on different train/test splits and took the average.</p>
-<img src="/assets/MM1.png">
+<img src="/assets/MM14.png">
 <h2><span style="text-decoration: underline;"><strong>Gradient Boosted Regression Trees</strong></span></h2>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This model obtained the best performance on the test sets. This model is basically a type of ensemble network where you have multiple shallow regression trees that reweight training examples based on the errors of the previous trees (If you&rsquo;d like more info, check out Peter Prettenhofer&rsquo;s <a href="https://www.youtube.com/watch?v=IXZKgIsZRm0&amp;t=892s" target="_blank">great talk</a>). Gradient boosted trees work really well with heterogeneous data (data on different scales) and can detect non-linear feature interactions, which was extremely useful in our task. One of the interesting attributes of this model is that we can analyze each of the feature&rsquo;s importance to the overall classification. By looking at each feature in relation to its position on the regression trees, we can examine which features contributed the most to the correct classification of the games.</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (Show pic of feature importance)</p>
