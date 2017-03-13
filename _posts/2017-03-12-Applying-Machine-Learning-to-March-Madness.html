@@ -2,7 +2,7 @@
 layout: post
 excerpt: The hottest topic in tech + the most exciting event in sports
 permalink: /Applying-Machine-Learning-to-March-Madness
-published: false
+published: true
 images:
   - url: /assets/Cover8th.png
 ---
@@ -103,7 +103,7 @@ images:
 <img src="/assets/MM14.png">
 <h2><span style="text-decoration: underline;"><strong>Gradient Boosted Regression Trees</strong></span></h2>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This model obtained the best performance on the test sets. This model is basically a type of ensemble network where you have multiple shallow regression trees that reweight training examples based on the errors of the previous trees (If you&rsquo;d like more info, check out Peter Prettenhofer&rsquo;s <a href="https://www.youtube.com/watch?v=IXZKgIsZRm0&amp;t=892s" target="_blank">great talk</a>). Gradient boosted trees work really well with heterogeneous data (data on different scales) and can detect non-linear feature interactions, which was extremely useful in our task. One of the interesting attributes of this model is that we can analyze each of the feature&rsquo;s importance to the overall classification. By looking at each feature in relation to its position on the regression trees, we can examine which features contributed the most to the correct classification of the games.</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (Show pic of feature importance)</p>
+<img src="/assets/MM15.png">
 <p>So, as you can see, the number of regular season wins that a team has greatly affects if they win the game or not. Intuitively, this makes sense. It doesn&rsquo;t take an advanced ML model or an expert analyst to just predict that the team with the greater number of wins is more likely to win.</p>
 <p>What&rsquo;s interesting, however, is looking at the subsequent features in the list. The two features that follow are SOS (strength of schedule) and location. If you think about it, SOS makes intuitive sense as well. Even if a team doesn&rsquo;t have a high number of wins, it&rsquo;s still very possible that they are a great team that just played stronger opponents over the course of the season.&nbsp; Location is also a well known factor that influences games, as that is where the term &ldquo;home-court advantage&rdquo; comes from.</p>
 <p>Looking at the features near the bottom of the list, we see that stats like whether or not a team won its conference championship and average rebounds don&rsquo;t have as much of a correlation with the overall outcome.</p>
