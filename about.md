@@ -18,7 +18,7 @@ For information about side projects I've done (neural nets, reinforcement learni
 ### Experience
 
 * Author at O'Reily Media 
-* VP of UCLA ACM Artitificial Intelligence 
+* VP of UCLA ACM Artificial Intelligence 
 * Coach with UCLA Special Olympics 
 * Peer Mentor with UCLA Engineering Mentorship Program 
 * UCLA Resident Assistant (Next Year) 
