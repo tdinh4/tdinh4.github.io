@@ -33,5 +33,5 @@ Other Tutorials
 React Web Apps
 ====================
 
-WORK IN PROGRESS 
+<a href="https://mlb-stats-app.herokuapp.com/" target="_blank">**MLB Stats App**</a> - First web application using the React JS framework. Have been hearing a lot of good things about it, so I wanted to give it a shot. This app is pretty simple. It just displays the 2016 regular season stats for each MLB team. Looking to add more functionality and iron out a few of the bugs a little later. 
 
