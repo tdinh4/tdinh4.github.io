@@ -15,7 +15,7 @@ I'm passionate about applying my knowledge of computer science and machine learn
 
 ### Experience
 
-* Author at O'Reily Media 
+* Part-time Author at O'Reily Media 
 * VP of UCLA ACM Artificial Intelligence 
 * Coach with UCLA Special Olympics 
 * Peer Mentor with UCLA Engineering Mentorship Program 
