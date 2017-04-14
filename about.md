@@ -12,14 +12,12 @@ For information about side projects I've done (neural nets, reinforcement learni
 
 ~~Actively looking for an internship in the summer of 2017.~~, but do contact me if you think there's room for collaboration. 
 
-# Published Writing
+### Published Writing
 
-### KDnuggets
 * [KDnuggets author page](http://www.kdnuggets.com/author/adit-deshpande)
-### DZone
 * [DZone author page](https://dzone.com/users/2843746/adeshpande3.html)
-### O'Reily
-(Coming Soon!)
+* (O'Reily Articles and Videos Coming Soon!)
+
 
 ### Contact me
 
