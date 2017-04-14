@@ -10,6 +10,12 @@ iPython Tensorflow Notebook Tutorials
 <a href="https://github.com/adeshpande3/TensorflowStuff/blob/master/ConvolutionalNeuralNet.ipynb" target="_blank">**Convolutional Neural Network Tutorial**</a> - This notebook shows you how to define a simple convolutional network using Tensorflow. We'll discuss how to load in datasets, how to create our network architecture using Tensorflow variables, as well as how to define loss functions and optimizers. 
 <br><br><a href="https://github.com/adeshpande3/Generative-Adversarial-Networks" target="_blank">**Generative Adversarial Network Tutorial**</a> - This notebook shows you how to create a simple GAN. The basic idea is that you have 2 different networks, a generator network and a discriminator network. The discriminative model has the task of determining whether a given image looks natural (an image from the dataset) or looks like it has been artificially created. The task of the generator is to create natural looking images that are similar to the original data distribution. In this tutorial, we'll look at how to create both models, and the unique process of training them to reach a Nash equilibrium. 
 
+React Web Apps
+====================
+![](/assets/react.png) 
+
+<a href="https://mlb-stats-app.herokuapp.com/" target="_blank">**MLB Stats App**</a> - First web application using the React JS framework. Have been hearing a lot of good things about it, so I wanted to give it a shot. This app is pretty simple. It just displays the 2016 regular season stats for each MLB team. Looking to add more functionality and iron out a few of the bugs a little later. 
+
 Sports Data Analysis
 ====================
 ![](/assets/sports.jpg) 
@@ -29,9 +35,3 @@ Other Tutorials
 ====================
 
 <a href="https://github.com/adeshpande3/Pandas-Tutorial/blob/master/Pandas%20Tutorial.ipynb" target="_blank">**Pandas Tutorial**</a> - Pandas is the one of the most popular Python libraries as it can be lots for a variety of different data sience tasks. From describing data structures to introducing the most important functions, this tutorial is a great starting point for anyone looking to start using Pandas. 
-
-React Web Apps
-====================
-
-<a href="https://mlb-stats-app.herokuapp.com/" target="_blank">**MLB Stats App**</a> - First web application using the React JS framework. Have been hearing a lot of good things about it, so I wanted to give it a shot. This app is pretty simple. It just displays the 2016 regular season stats for each MLB team. Looking to add more functionality and iron out a few of the bugs a little later. 
-
