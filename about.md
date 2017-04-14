@@ -8,8 +8,6 @@ I'm a second year undergraduate student currently studying at UCLA. I'm majoring
 
 I'm passionate about applying my knowledge of computer science and machine learning to areas in healthcare where we can really engineer better solutions for helping doctors and taking care of patients. 
 
-For information about side projects I've done (neural nets, reinforcement learning, Kaggle stuff, sports, etc), check out my <a href="https://github.com/adeshpande3"  target="_blank">github</a>.
-
 ### Internships
 
 * Computer Engineer Intern at U.S Naval Research Lab (June 2016 - September 2016)
