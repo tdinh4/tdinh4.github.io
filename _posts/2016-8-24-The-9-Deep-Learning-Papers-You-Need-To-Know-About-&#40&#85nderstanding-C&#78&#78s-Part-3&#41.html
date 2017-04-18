@@ -111,7 +111,7 @@ images:
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The idea behind a residual block is that you have your input x go through conv-relu-conv series. This will give you some F(x). That result is then added to the original input x. Let&rsquo;s call that H(x) = F(x) + x. In traditional CNNs, your H(x) would just be equal to F(x) right? So, instead of just computing that transformation (straight from x to F(x)), we&rsquo;re computing the term that you have to <em>add</em>, F(x), to your input, x. Basically, the mini module shown below is computing a &ldquo;delta&rdquo; or a slight change to the original input x to get a slightly altered representation (When we think of traditional CNNs, we go from x to F(x) which is a completely new representation that doesn&rsquo;t keep any information about the original x). The authors believe that &ldquo;it is easier to optimize the residual mapping than to optimize the original, unreferenced mapping&rdquo;.</p>
 <!-- ResNet pic -->
 <img src="/assets/ResNet.png">
-<p>Another reason for why this residual block might be effective is that during the backward pass of backpropagation, the gradient will flow easily through the effective because we have addition operations, which distributes the gradient.</p>
+<p>Another reason for why this residual block might be effective is that during the backward pass of backpropagation, the gradient will flow easily through the graph because we have addition operations, which distributes the gradient.</p>
 <p><span style="text-decoration: underline;">Main Points</span></p>
 <ul>
 <li>&ldquo;Ultra-deep&rdquo; &ndash; Yann LeCun.</li>
