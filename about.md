@@ -10,6 +10,7 @@ I'm passionate about applying my knowledge of computer science and machine learn
 
 ### Internships
 
+* Research Intern in Boston RISE program (June 2014 - August 2014)
 * Computer Engineer Intern at U.S Naval Research Lab (June 2016 - September 2016)
 * Software Engineering Intern at Qualcomm (This Summer) 
 
