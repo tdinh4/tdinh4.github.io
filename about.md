@@ -34,6 +34,8 @@ As an officer of UCLA's ACM AI group, I've given talks on the following topics (
 
 * [Introduction to Machine Learning with Tensorflow ](https://docs.google.com/presentation/d/1a4sh-fJIH6DFH1bJcCOeqlbDLZQekm0DaVB_cZ-Rg8w/edit?usp=sharing)
 
+<img src="/assets/Workshop.jpg">
+
 ### Contact me
 
 [adeshpande3@g.ucla.edu](mailto:adeshpande3@g.ucla.edu)
