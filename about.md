@@ -24,15 +24,15 @@ I'm passionate about applying my knowledge of computer science and machine learn
 
 ### Published Writing
 
-* [KDnuggets author page](http://www.kdnuggets.com/author/adit-deshpande)
-* [DZone author page](https://dzone.com/users/2843746/adeshpande3.html)
+* [KDnuggets author page](http://www.kdnuggets.com/author/adit-deshpande){:target="_blank"}
+* [DZone author page](https://dzone.com/users/2843746/adeshpande3.html){:target="_blank"}
 * (O'Reily Articles and Videos Coming Soon!)
 
 ### Teaching
 
 As an officer of UCLA's ACM AI group, I've given talks on the following topics (with slides attached)
 
-* [Introduction to Machine Learning with Tensorflow ](https://docs.google.com/presentation/d/1a4sh-fJIH6DFH1bJcCOeqlbDLZQekm0DaVB_cZ-Rg8w/edit?usp=sharing)
+* [Introduction to Machine Learning with Tensorflow ](https://docs.google.com/presentation/d/1a4sh-fJIH6DFH1bJcCOeqlbDLZQekm0DaVB_cZ-Rg8w/edit?usp=sharing){:target="_blank"}
 
 <img src="/assets/Workshop.jpg">
 
