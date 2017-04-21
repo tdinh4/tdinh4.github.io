@@ -28,6 +28,12 @@ I'm passionate about applying my knowledge of computer science and machine learn
 * [DZone author page](https://dzone.com/users/2843746/adeshpande3.html)
 * (O'Reily Articles and Videos Coming Soon!)
 
+### Teaching
+
+As an officer of UCLA's ACM AI group, I've given talks on the following topics (with slides attached)
+
+* [Introduction to Machine Learning with Tensorflow ](https://docs.google.com/presentation/d/1a4sh-fJIH6DFH1bJcCOeqlbDLZQekm0DaVB_cZ-Rg8w/edit?usp=sharing)
+
 ### Contact me
 
 [adeshpande3@g.ucla.edu](mailto:adeshpande3@g.ucla.edu)
