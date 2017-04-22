@@ -27,6 +27,7 @@ I'm passionate about applying my knowledge of computer science and machine learn
 * [KDnuggets author page](http://www.kdnuggets.com/author/adit-deshpande){:target="_blank"}
 * [Interview with KDnuggets](http://www.kdnuggets.com/2016/10/top-blogger-interview-adit-deshpande.html){:target="_blank"}
 * [DZone author page](https://dzone.com/users/2843746/adeshpande3.html){:target="_blank"}
+* [Article on MLB.com](http://m.mlb.com/news/article/56850942//){:target="_blank"}
 * (O'Reily Articles and Videos Coming Soon!)
 
 ### Teaching
