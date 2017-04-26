@@ -10,14 +10,16 @@ I'm passionate about applying my knowledge of computer science and machine learn
 
 ### Internships
 
-* Software Engineering Intern at Qualcomm (This Summer) 
-* Computer Engineer Intern at U.S Naval Research Lab (June 2016 - September 2016)
+<img src="assets/qualcomm.jpg"><img src="assets/nrl.png"><img src="assets/bu.gif">
+
+* **Software Engineering Intern at Qualcomm** (This Summer) 
+* **Computer Engineer Intern at U.S Naval Research Lab** (June 2016 - September 2016)
   - Developed object localization algorithms through convolutional neural networks for deployment on IBM's TrueNorth neuromorphic chip. 
   - Wrote Matlab functions and shell scripts to format and preprocess datasets.
   - Implemented a selective search and sliding window based approach to localization.
   - Trained a convolutional neural network to place bounding boxes over a specific object of interest with a classification accuracy of 92.86%.
   - Presented results to a group of engineers and upper level management at the conclusion of the internship.
-* Research Intern in Boston RISE program (June 2014 - August 2014)
+* **Research Intern in Boston RISE program** (June 2014 - August 2014)
   - Participated in the Boston RISE summer internship program during the summer between my junior and senior years of high school.
   - Completed an Electrical Engineering project under the guidance of Professor Ajay Joshi.
   - Ran benchmarks on a Parallella board containing a 16 core Epiphany processor, analyzed results, and participated in a research poster session at the end of the program.
