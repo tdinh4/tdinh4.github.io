@@ -10,7 +10,7 @@ I'm passionate about applying my knowledge of computer science and machine learn
 
 ### Internships
 
-<img src="assets/qualcomm.jpg"><img src="assets/nrl.png"><img src="assets/bu.gif">
+<img src="assets/qualcomm.jpg">   <img src="assets/nrl.png">   <img src="assets/bu.gif">
 
 * **Software Engineering Intern at Qualcomm** (This Summer) 
 * **Computer Engineer Intern at U.S Naval Research Lab** (June 2016 - September 2016)
