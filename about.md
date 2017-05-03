@@ -10,7 +10,7 @@ I'm passionate about applying my knowledge of computer science and machine learn
 
 ### Internships
 
-<img src="/assets/qualcomm.jpg">        <img src="/assets/nrl.png">         <img src="/assets/bu.gif">
+<img src="/assets/qualcomm.jpg">                     <img src="/assets/nrl.png">                     <img src="/assets/bu.gif">
 
 
 * **Software Engineering Intern at Qualcomm** (This Summer) 
@@ -26,6 +26,7 @@ I'm passionate about applying my knowledge of computer science and machine learn
   - Ran benchmarks on a Parallella board containing a 16 core Epiphany processor, analyzed results, and participated in a research poster session at the end of the program.
 
 ### Experience
+<img src="/assets/oreily.png">                     <img src="/assets/acmai.png">                     <img src="/assets/specialo.jpg">                     <img src="/assets/ucla.png">
 
 * Part-time Author at O'Reily Media 
 * VP of UCLA ACM Artificial Intelligence 
