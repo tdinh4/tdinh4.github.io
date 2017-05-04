@@ -27,7 +27,7 @@ I'm passionate about applying my knowledge of computer science and machine learn
 
 ### Experience
 
-<img src="/assets/oreily.png" width="400">                     <img src="/assets/acmai.png" width="400">                     <img src="/assets/specialo.jpg" height="300">                     <img src="/assets/ucla.png" width="300">
+<img src="/assets/oreily.png" width="400">                     <img src="/assets/acmai.png" width="400">                     <img src="/assets/specialo.jpg" >                     <img src="/assets/ucla.png" >
 
 * Part-time Author at O'Reily Media 
 * VP of UCLA ACM Artificial Intelligence 
