@@ -10,7 +10,7 @@ I'm passionate about applying my knowledge of computer science and machine learn
 
 ### Internships
 
-<img src="/assets/qualcomm.jpg">                     <img src="/assets/nrl.png">                     <img src="/assets/bu.gif">
+<img src="/assets/qualcomm.jpg" width="250">                     <img src="/assets/nrl.png" width="100">                     <img src="/assets/bu.gif" width="150">
 
 
 * **Software Engineering Intern at Qualcomm** (This Summer) 
