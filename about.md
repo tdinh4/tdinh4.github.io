@@ -26,8 +26,7 @@ I'm passionate about applying my knowledge of computer science and machine learn
   - Ran benchmarks on a Parallella board containing a 16 core Epiphany processor, analyzed results, and participated in a research poster session at the end of the program.
 
 ### Experience
-
-<img src="/assets/oreily.png" width="250">                     <img src="/assets/acmai.png" width="250">                     <img src="/assets/specialo.jpg" >                                                                    <img src="/assets/ucla.png" >
+<img src="/assets/oreily.png" width="250">                     <img src="/assets/acmai.png" width="250">                     <img src="/assets/specialo.jpg" >                                                                    <img src="/assets/reslife.png" >
 
 * Part-time Author at O'Reily Media 
 * VP of UCLA ACM Artificial Intelligence 
