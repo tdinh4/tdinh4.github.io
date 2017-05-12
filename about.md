@@ -45,7 +45,7 @@ I'm passionate about applying my knowledge of computer science and machine learn
 
 ### Teaching
 
-As an officer of UCLA's ACM AI group, I've given talks on the following topics (with slides attached)
+As vice president of UCLA's ACM AI group, I've given talks on the following topics (with slides attached)
 
 * [Introduction to Machine Learning with Tensorflow ](https://docs.google.com/presentation/d/1a4sh-fJIH6DFH1bJcCOeqlbDLZQekm0DaVB_cZ-Rg8w/edit?usp=sharing){:target="_blank"}
 * [Introduction to Neural Networks with Tensorflow ](https://docs.google.com/presentation/d/1DoYwIUgo-1HS7eZsnOM7WTMOq7-j2lTHjWSaTgSWTMs/edit?usp=sharing){:target="_blank"}
