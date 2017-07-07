@@ -3,7 +3,7 @@ layout: page
 permalink: /projects/
 ---
 
-iPython Tensorflow Notebook Tutorials
+iPython Tensorflow Notebook Tutorial
 ====================
 ![](/assets/tf.jpg) 
 
