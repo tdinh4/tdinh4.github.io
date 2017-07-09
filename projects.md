@@ -16,11 +16,11 @@ iPython Tensorflow Notebook Tutorials
 - **Linear Regression**: This notebook shows you how Tensorflow is not just a deep learning library, but is a library centered on numerical computation, which allows you to create classic machine learning models relatively easily.
 - **Simple Neural Networks**: This notebook shows you how to create simple 1 and 2 layer neural networks. We'll then see how these networks perform on MNIST, and look at the type of hyperparamters that affect a model's accuracy (network architecture, weight initialization, learning rate, etc)
 
-React Web Apps
+Hackathons
 ====================
-![](/assets/react.png) 
+![](/assets/chiro.png) 
 
-<a href="https://mlb-stats-app.herokuapp.com/" target="_blank">**MLB Stats App**</a> - First web application using the React JS framework. Have been hearing a lot of good things about it, so I wanted to give it a shot. This app is pretty simple. It just displays the 2016 regular season stats for each MLB team. Looking to add more functionality and iron out a few of the bugs a little later. 
+<a href="https://github.com/NWChen/Chiro" target="_blank">**Chiro**</a> *Qualcomm HackMobile 2017* - Created a tool that detects and corrects your posture while sitting at a desk. We used convolutional neural networks for the binary classification problem of whether or not a person currently has good or bad posture. We gathered a large dataset of images, and used transfer learning to fine tune a pretrained Inception network. We created a camera streaming web app that sent raw RGB photos to a webserver which passed the image through a saved Keras CNN model, and rendered the results to a single page web app that alerts you when bad posture is detected. 
 
 Sports Data Analysis
 ====================
@@ -28,6 +28,12 @@ Sports Data Analysis
 
 <a href="https://github.com/adeshpande3/March-Madness-2017/blob/master/March%20Madness%202017.ipynb" target="_blank">**March Madness 2017 Bracket Predictor Model**</a> - This iPython notebook looks at how we can use historical data on NCAA regular season games to develop a model that outputs win probability for 2 given teams facing each other. We can frame this as a supervised learning problem where we can use past game by game results as our labels. Each team is represented by a d-dimensional vector containing information for that team (PPG, Number of Wins, etc) during the given season. The element wise difference between the two teams is inputted into a neural network, where the output is the softmax-bounded probability of the likelihood that Team 1 will come out victorious in the matchup. I also wrote a <a href="https://adeshpande3.github.io/adeshpande3.github.io/Applying-Machine-Learning-to-March-Madness" target="_blank">blog post</a> about predicting the 2017 March Madness tournament. 
 <br><br><a href="https://github.com/adeshpande3/MLB_Win_Predictor/blob/master/BaseballWinPredictor.lua" target="_blank">**MLB Win Predictor Linear Regression Model**</a> - This project looks at how a team's baseball statistics (ERA, Batting Average, RBI, etc), over the course of a season, contribute to their total number of wins. This uses the Torch7 computing framework to develop a linear regression model that takes in a set of 16 features representing traditional baseball statistics and outputs the predicted number of wins for the given season. Given the season statistics for a team, this model can predict a team's win total within 3 games (1.85% error). 
+
+React Web Apps
+====================
+![](/assets/react.png) 
+
+<a href="https://mlb-stats-app.herokuapp.com/" target="_blank">**MLB Stats App**</a> - First web application using the React JS framework. Have been hearing a lot of good things about it, so I wanted to give it a shot. This app is pretty simple. It just displays the 2016 regular season stats for each MLB team. Looking to add more functionality and iron out a few of the bugs a little later. 
 
 Kaggle Competitions
 ====================
