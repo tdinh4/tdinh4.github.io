@@ -13,7 +13,7 @@ I'm passionate about applying my knowledge of computer science and machine learn
 <img src="/assets/qualcomm.jpg" width="250">                     <img src="/assets/nrl.png" width="100">                     <img src="/assets/bu.gif" width="150">
 
 
-* **Software Engineering Intern at Qualcomm** (This Summer) 
+* **Software Engineering Intern at Qualcomm** (June 2017 - September 2017) 
 * **Computer Engineer Intern at U.S Naval Research Lab** (June 2016 - September 2016)
   - Developed object localization algorithms through convolutional neural networks for deployment on IBM's TrueNorth neuromorphic chip. 
   - Wrote Matlab functions and shell scripts to format and preprocess datasets.
@@ -29,11 +29,11 @@ I'm passionate about applying my knowledge of computer science and machine learn
 <img src="/assets/oreily.png" width="250">                     <img src="/assets/acmai.png" width="250">                     <img src="/assets/specialo.jpg" >                                                                    
 <img src="/assets/reslife.png" >
 
-* Part-time Author at O'Reily Media 
+* Author at O'Reily Media 
 * VP of UCLA ACM Artificial Intelligence 
 * Coach with UCLA Special Olympics 
 * Peer Mentor with UCLA Engineering Mentorship Program 
-* UCLA Resident Assistant (Next Year) 
+* UCLA Resident Assistant  
 
 ### Published Writing
 
@@ -42,7 +42,7 @@ I'm passionate about applying my knowledge of computer science and machine learn
 * [DZone author page](https://dzone.com/users/2843746/adeshpande3.html){:target="_blank"}
 * [Article on MLB.com](http://m.mlb.com/news/article/56850942//){:target="_blank"}
 * [O'Reily Generative Adversarial Network Tutorial](https://www.oreilly.com/learning/generative-adversarial-networks-for-beginners){:target="_blank"}
-* (O'Reily LSTM Video Tutorial Coming Soon!)
+* [O'Reily LSTM Video Tutorial Coming Soon!](https://www.oreilly.com/learning/perform-sentiment-analysis-with-lstms-using-tensorflow){:target="_blank"}
 
 ### Teaching
 
@@ -56,4 +56,4 @@ As vice president of UCLA's ACM AI group, I've given talks on the following topi
 
 ### Contact me
 
-[adeshpande3@g.ucla.edu](mailto:adeshpande3@g.ucla.edu)
+[adeshpande3@ucla.edu](mailto:adeshpande3@ucla.edu)
