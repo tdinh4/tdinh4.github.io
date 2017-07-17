@@ -10,7 +10,7 @@ I'm passionate about applying my knowledge of computer science and machine learn
 
 ### Internships
 
-<img src="/assets/qualcomm.jpg" width="250">                     <img src="/assets/nrl.png" width="100">                     <img src="/assets/bu.gif" width="150">
+<img src="/assets/qualcomm.jpg" width="250">                     <img src="/assets/nrl.png" width="90">                     <img src="/assets/bu.gif" width="150">
 
 
 * **Software Engineering Intern at Qualcomm** (June 2017 - September 2017) 
@@ -42,7 +42,7 @@ I'm passionate about applying my knowledge of computer science and machine learn
 * [DZone author page](https://dzone.com/users/2843746/adeshpande3.html){:target="_blank"}
 * [Article on MLB.com](http://m.mlb.com/news/article/56850942//){:target="_blank"}
 * [O'Reily Generative Adversarial Network Tutorial](https://www.oreilly.com/learning/generative-adversarial-networks-for-beginners){:target="_blank"}
-* [O'Reily LSTM Video Tutorial Coming Soon!](https://www.oreilly.com/learning/perform-sentiment-analysis-with-lstms-using-tensorflow){:target="_blank"}
+* [O'Reily LSTM Video Tutorial](https://www.oreilly.com/learning/perform-sentiment-analysis-with-lstms-using-tensorflow){:target="_blank"}
 
 ### Teaching
 
