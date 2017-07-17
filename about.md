@@ -41,8 +41,8 @@ I'm passionate about applying my knowledge of computer science and machine learn
 * [Interview with KDnuggets](http://www.kdnuggets.com/2016/10/top-blogger-interview-adit-deshpande.html){:target="_blank"}
 * [DZone author page](https://dzone.com/users/2843746/adeshpande3.html){:target="_blank"}
 * [Article on MLB.com](http://m.mlb.com/news/article/56850942//){:target="_blank"}
-* [O'Reily Generative Adversarial Network Tutorial](https://www.oreilly.com/learning/generative-adversarial-networks-for-beginners){:target="_blank"}
-* [O'Reily LSTM Video Tutorial](https://www.oreilly.com/learning/perform-sentiment-analysis-with-lstms-using-tensorflow){:target="_blank"}
+* [O'Reilly Generative Adversarial Network Tutorial](https://www.oreilly.com/learning/generative-adversarial-networks-for-beginners){:target="_blank"}
+* [O'Reilly LSTM Video Tutorial](https://www.oreilly.com/learning/perform-sentiment-analysis-with-lstms-using-tensorflow){:target="_blank"}
 
 ### Teaching
 
