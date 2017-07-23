@@ -15,12 +15,10 @@ images:
 <h2><span style="text-decoration: underline;"><strong>Problem Space</strong></span></h2>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; From a high level, the job of a chatbot is to be able to determine the best response for any given message that it receives. This &ldquo;best&rdquo; response should either (1) answer the sender&rsquo;s question, (2) give the sender relevant information, (3) ask follow-up questions, or (4) continue the conversation in a realistic way. This is a pretty tall order. The chatbot needs to be able to understand the intentions of the sender&rsquo;s message, determine what type of response message (a follow-up question, direct response, etc.) is required, and follow correct grammatical and lexical rules while forming the response.</p>
 <p>It&rsquo;s safe to say that modern chatbots have trouble accomplishing all these tasks. For all the progress we have made in the field, we too often get chatbot experiences like this.</p>
-<p>(</p>
 <blockquote class="twitter-tweet" data-lang="en">
 <p dir="ltr" lang="en">"Oh no! Artificial Intelligence is totally going to take over the world! Because deep learning models neurons!" <a href="https://t.co/5UEpel4k6H">pic.twitter.com/5UEpel4k6H</a></p>
 &mdash; Reza Zadeh (@Reza_Zadeh) <a href="https://twitter.com/Reza_Zadeh/status/765722701465948160">August 17, 2016</a></blockquote>
 <script src="//platform.twitter.com/widgets.js" async="" charset="utf-8"></script>
-<p>)</p>
 <p>Chatbots are too often not able to understand our intentions, have trouble getting us the correct information, and are sometimes just exasperatingly difficult to deal with. As we&rsquo;ll see in this post, deep learning is one of the most effective methods in tackling this tough task.</p>
 <h2><span style="text-decoration: underline;"><strong>Deep Learning Approach</strong></span></h2>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Chatbots that use deep learning are almost all using some variant of a <strong>sequence to sequence</strong> (Seq2Seq) <strong>model</strong>. In 2014, Ilya Sutskever, Oriol Vinyals, and Quoc Le published the seminal work in this field with a <a href="https://arxiv.org/pdf/1409.3215.pdf">paper</a> called &ldquo;Sequence to Sequence Learning with Neural Networks&rdquo;. This paper showed great results in machine translation specifically, but Seq2Seq models have grown to encompass a variety of NLP tasks.</p>
