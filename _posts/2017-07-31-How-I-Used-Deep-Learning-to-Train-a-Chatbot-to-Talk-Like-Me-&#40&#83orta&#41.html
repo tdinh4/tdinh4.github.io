@@ -2,7 +2,7 @@
 layout: post
 excerpt: Can you see the resemblance?
 permalink: /How-I-Used-Deep-Learning-to-Train-a-Chatbot-to-Talk-Like-Me
-published: true
+published: false
 images:
   - url: /assets/Cover9th.png
 ---
@@ -81,10 +81,10 @@ images:
 <p>I thought the first one was especially funny because &ldquo;juju green&rdquo; actually seems to be a combination of <a href="https://en.wikipedia.org/wiki/Juju_Smith-Schuster" target="_blank">Juju Smith-Schuster</a>, a Steelers wide receiver, and <a href="https://en.wikipedia.org/wiki/Draymond_Green" target="_blank">Draymond Green</a> who is a forward for the Golden State Warriors. Interesting combination.</p>
 <p>Okay let's be real. The performance is not that great right now to say the least. Let's think about ways to improve it though!</p>
 <h2><span style="text-decoration: underline;"><strong>Ways to Improve</strong></span></h2>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; As you can probably tell from interacting with the chatbot, there is definitely room for a lot of improvement. After a couple of messages, it quickly becomes clear that having a sustained conversation simply just isn&rsquo;t possible. Here are some ways that could improve our chatbot&rsquo;s performance. &nbsp;</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; As you can probably tell from interacting with the chatbot, there is definitely room for a lot of improvement. After a couple of messages, it quickly becomes clear that having a sustained conversation simply just isn&rsquo;t possible. The chabtot iisn&rsquo;t able to connect thoughts together, and some of the responses seem random and incoherent. Here are some ways that could improve our chatbot&rsquo;s performance. &nbsp;</p>
 <ul>
 <li>Incorporate other datasets to help the network learn from a larger conversation corpus. This would remove a bit of the "individualness" of the chatbot since it's strictly trained on my own conversations right now. However, I believe it would help generate more realistic conversations.</li>
-<li>Handling scenarios where the encoder message has nothing to do with what the decoder message is. Example is when one conversation ends, and you start a new one the next day. The topic of conversation could be completely unrelated.</li>
+<li>Handling scenarios where the encoder message has nothing to do with what the decoder message is. Example is when one conversation ends, and you start a new one the next day. The topic of conversation could be completely unrelated. This could affect the model's training.</li>
 <li>Using bidirectional LSTMs, attention mechanisms, and bucketing.</li>
 <li>Tuning hyperparameters such as number of LSTM units, number of LSTM layers, choice of optimizer, number of training iterations, etc.</li>
 </ul>
