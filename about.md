@@ -54,6 +54,13 @@ As vice president of UCLA's ACM AI group, I've given talks on the following topi
 
 <img src="/assets/Workshop.jpg">
 
+### Books I'd Highly Recommend
+
+* *When Breath Becomes Air* - Paul Kalanithi
+* *Option B* - Sheryl Sandberg
+* *Quiet: The Power of Introverts in a World That Can't Stop Talking* - Susan Cain
+* *Emotional Agility* - Susan David
+
 ### Contact me
 
 [adeshpande3@ucla.edu](mailto:adeshpande3@ucla.edu)
