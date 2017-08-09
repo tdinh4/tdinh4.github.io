@@ -13,7 +13,11 @@ I'm passionate about applying my knowledge of computer science and machine learn
 <img src="/assets/qualcomm.jpg" width="250">                     <img src="/assets/nrl.png" width="80">                     <img src="/assets/bu.gif" width="175">
 
 
-* **Software Engineering Intern at Qualcomm** (June 2017 - September 2017) 
+* **Software Engineering Intern at Qualcomm** (June 2017 - August 2017) 
+  - Worked on the core Android platform team to test over-the-air (OTA) upgrades on Qualcomm powered Android devices.
+  - Performed fail-safe testing to ensure proper functionality during OTA updates and bootup.
+  - Consolidated OTA projects into a unified location to achieve smooth upgrades with limited disruption to other modules.  
+  - Tools Used: Android Fastboot/ADB, OpenEmbedded, Bitbake
 * **Computer Engineer Intern at U.S Naval Research Lab** (June 2016 - September 2016)
   - Developed object localization algorithms through convolutional neural networks for deployment on IBM's TrueNorth neuromorphic chip. 
   - Wrote Matlab functions and shell scripts to format and preprocess datasets.
