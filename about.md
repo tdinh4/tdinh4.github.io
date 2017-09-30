@@ -35,7 +35,7 @@ I'm passionate about applying my knowledge of computer science and machine learn
 <img src="/assets/oreily.png">                    <img src="/assets/acmai.png">                     <img src="/assets/specialo.jpg" >                                                                    
 <img src="/assets/reslife.png" >
 
-* Author at O'Reily Media 
+* Author at O'Reilly Media 
 * VP of UCLA ACM Artificial Intelligence 
 * Coach with UCLA Special Olympics 
 * Peer Mentor with UCLA Engineering Mentorship Program 
