@@ -55,6 +55,7 @@ I'm passionate about applying my knowledge of computer science and machine learn
 As vice president of UCLA's ACM AI group, I've given talks on the following topics (with slides attached)
 
 * [Introduction to Machine Learning with Tensorflow ](https://docs.google.com/presentation/d/1a4sh-fJIH6DFH1bJcCOeqlbDLZQekm0DaVB_cZ-Rg8w/edit?usp=sharing){:target="_blank"}
+* [Linear Regression with Tensorflow](https://docs.google.com/presentation/d/1x_e00Dl-NHav2h_fOytKqF8D25jZu1my2lrj_KeWMB0/edit?usp=sharing){:target="_blank"}
 * [Introduction to Neural Networks with Tensorflow ](https://docs.google.com/presentation/d/1DoYwIUgo-1HS7eZsnOM7WTMOq7-j2lTHjWSaTgSWTMs/edit?usp=sharing){:target="_blank"}
 * [Convolutional Neural Networks with Tensorflow ](https://docs.google.com/presentation/d/1YLOk3wqDAG0qrd5tFeRfzTDoHTDn2i3epDv3NS8M7U8/edit?usp=sharing){:target="_blank"}
 
