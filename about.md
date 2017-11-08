@@ -67,6 +67,7 @@ As vice president of UCLA's ACM AI group, I've given talks on the following topi
 * *Option B* - Sheryl Sandberg
 * *Quiet: The Power of Introverts in a World That Can't Stop Talking* - Susan Cain
 * *Emotional Agility* - Susan David
+* *Chasing the Scream* - Johann Hari
 
 ### Contact me
 
