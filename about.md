@@ -52,12 +52,15 @@ I'm passionate about applying my knowledge of computer science and machine learn
 
 ### Teaching
 
-As vice president of UCLA's ACM AI group, I've given talks on the following topics (with slides attached)
+As vice president of UCLA's ACM AI group, I've presented/co-presented on the following topics (with slides attached)
 
-* [Introduction to Machine Learning with Tensorflow ](https://docs.google.com/presentation/d/1a4sh-fJIH6DFH1bJcCOeqlbDLZQekm0DaVB_cZ-Rg8w/edit?usp=sharing){:target="_blank"}
-* [Linear Regression with Tensorflow](https://docs.google.com/presentation/d/1x_e00Dl-NHav2h_fOytKqF8D25jZu1my2lrj_KeWMB0/edit?usp=sharing){:target="_blank"}
-* [Introduction to Neural Networks with Tensorflow ](https://docs.google.com/presentation/d/1DoYwIUgo-1HS7eZsnOM7WTMOq7-j2lTHjWSaTgSWTMs/edit?usp=sharing){:target="_blank"}
-* [Convolutional Neural Networks with Tensorflow ](https://docs.google.com/presentation/d/1YLOk3wqDAG0qrd5tFeRfzTDoHTDn2i3epDv3NS8M7U8/edit?usp=sharing){:target="_blank"}
+* [ACM AI Intro Meeting](http://bit.ly/2xw2T18){:target="_blank"}
+* [Workshop #1: Linear Regression with Tensorflow](http://bit.ly/2hj5epX){:target="_blank"}
+* [Workshop #2: Logistic Regression with Tensorflow](http://bit.ly/2ybSdZW){:target="_blank"}
+* [Workshop #3: Pandas and Kaggle](http://bit.ly/2zN49gV){:target="_blank"}
+* [Workshop #4: Neural Networks with Tensorflow](http://bit.ly/2yqN2W9){:target="_blank"}
+* [Workshop #5: Multi Layer Neural Networks with Tensorflow](http://bit.ly/2zwwgUM){:target="_blank"}
+* [Workshop #6: Convolutional Neural Networks with Tensorflow](https://docs.google.com/presentation/d/12uEAa9Tpm660ggIVKtoPpyhVC_N41uVO5itMNsXA1Y8/edit?usp=sharing){:target="_blank"}
 
 <img src="/assets/Workshop.jpg">
 
