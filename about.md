@@ -8,7 +8,7 @@ I'm a third year undergraduate student currently studying at UCLA and majoring i
 
 I'm passionate about applying my knowledge of computer science and machine learning to areas in healthcare where we can really engineer better solutions for helping doctors and taking care of patients. In my mind, machine learning and computer science really have the power to make the gradual shift to preventative instead of reactionary healthcare. If you're working in the healthcare or medical fields, don't hesitate to reach out if you think there's an opportunity for collaboration. Would love to discuss.
 
-**Looking for ML/data science internship for the summer of 2018.**
+**~~Looking for ML/data science internship for the summer of 2018~~ but email me if you're looking to collaborate on future projects.**
 
 ### Internships
 
