@@ -64,8 +64,8 @@ As vice president of UCLA's ACM AI group, I've presented/co-presented on the fol
 
 As part of ACM AI, we hold research paper reading group meetings.
 
-* [Meeting #1: A Few Useful Things to Know About ML](https://docs.google.com/presentation/d/1I2B0TLEWjffEXZva6OEw1mfU4FWZ5vSjBnfxFXmXl6g/edit?usp=sharing)
-* [Meeting #2: Deep Learning](https://docs.google.com/presentation/d/12AthaGiN669pe_6fvGz0DPb9emsJJK20xbOWu2l2ixo/edit?usp=sharing)
+* [Meeting #1: A Few Useful Things to Know About ML](https://docs.google.com/presentation/d/1I2B0TLEWjffEXZva6OEw1mfU4FWZ5vSjBnfxFXmXl6g/edit?usp=sharing){:target="_blank"}
+* [Meeting #2: Deep Learning](https://docs.google.com/presentation/d/12AthaGiN669pe_6fvGz0DPb9emsJJK20xbOWu2l2ixo/edit?usp=sharing){:target="_blank"}
 
 <img src="/assets/Workshop.jpg">
 
