@@ -52,7 +52,7 @@ I'm passionate about applying my knowledge of computer science and machine learn
 
 ### Teaching
 
-As vice president of UCLA's ACM AI group, I've presented/co-presented on the following topics (with slides attached)
+As vice president of UCLA's ACM AI group, I've presented/co-presented on the following topics (with slides attached).
 
 * [ACM AI Intro Meeting](http://bit.ly/2xw2T18){:target="_blank"}
 * [Workshop #1: Linear Regression with Tensorflow](http://bit.ly/2hj5epX){:target="_blank"}
@@ -61,6 +61,11 @@ As vice president of UCLA's ACM AI group, I've presented/co-presented on the fol
 * [Workshop #4: Neural Networks with Tensorflow](http://bit.ly/2yqN2W9){:target="_blank"}
 * [Workshop #5: Multi Layer Neural Networks with Tensorflow](http://bit.ly/2zwwgUM){:target="_blank"}
 * [Workshop #6: Convolutional Neural Networks with Tensorflow](https://docs.google.com/presentation/d/12uEAa9Tpm660ggIVKtoPpyhVC_N41uVO5itMNsXA1Y8/edit?usp=sharing){:target="_blank"}
+
+As part of ACM AI, we hold research paper reading group meetings.
+
+* [Meeting #1: A Few Useful Things to Know About ML](https://docs.google.com/presentation/d/1I2B0TLEWjffEXZva6OEw1mfU4FWZ5vSjBnfxFXmXl6g/edit?usp=sharing)
+* [Meeting #2: Deep Learning](https://docs.google.com/presentation/d/12AthaGiN669pe_6fvGz0DPb9emsJJK20xbOWu2l2ixo/edit?usp=sharing)
 
 <img src="/assets/Workshop.jpg">
 
@@ -71,6 +76,7 @@ As vice president of UCLA's ACM AI group, I've presented/co-presented on the fol
 * *Quiet: The Power of Introverts in a World That Can't Stop Talking* - Susan Cain
 * *Emotional Agility* - Susan David
 * *Chasing the Scream* - Johann Hari
+* *The Elegant Universe* - Brian Greene
 
 ### Contact me
 
