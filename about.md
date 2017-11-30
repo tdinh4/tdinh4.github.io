@@ -61,6 +61,7 @@ As vice president of UCLA's ACM AI group, I've presented/co-presented on the fol
 * [Workshop #4: Neural Networks with Tensorflow](http://bit.ly/2yqN2W9){:target="_blank"}
 * [Workshop #5: Multi Layer Neural Networks with Tensorflow](http://bit.ly/2zwwgUM){:target="_blank"}
 * [Workshop #6: Convolutional Neural Networks with Tensorflow](https://docs.google.com/presentation/d/12uEAa9Tpm660ggIVKtoPpyhVC_N41uVO5itMNsXA1Y8/edit?usp=sharing){:target="_blank"}
+* [Workshop #7: Recurrent Neural Networks with Tensorflow](https://docs.google.com/presentation/d/1MmU6mNhX0fuOE_z02bTtiXlgslRYSljuaU2OMatM7bg/edit?usp=sharing){:target="_blank"}
 
 As part of ACM AI, we hold research paper reading group meetings.
 
