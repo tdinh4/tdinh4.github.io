@@ -8,13 +8,14 @@ I'm a third year undergraduate student currently studying at UCLA and majoring i
 
 I'm passionate about applying my knowledge of computer science and machine learning to areas in healthcare where we can really engineer better solutions for helping doctors and taking care of patients. In my mind, machine learning and computer science really have the power to make the gradual shift to preventative instead of reactionary healthcare. If you're working in the healthcare or medical fields, don't hesitate to reach out if you think there's an opportunity for collaboration. Would love to discuss.
 
-**~~Looking for ML/data science internship for the summer of 2018~~ but email me if you're looking to collaborate on future projects.**
+**Email me if you're looking to collaborate on future projects. Always open to new opportunities**
 
 ### Internships
 
-<img src="/assets/qualcomm.jpg" width="250">                     <img src="/assets/nrl.png" width="80">                     <img src="/assets/bu.gif" width="175">
+<img src="/assets/clarifai.png" width="250">                    <img src="/assets/qualcomm.jpg" width="250">                     <img src="/assets/nrl.png" width="80">                     <img src="/assets/bu.gif" width="175">
 
 
+* **Machine Learning Intern at Clarifai** (Summer of 2018) 
 * **Software Engineering Intern at Qualcomm** (June 2017 - August 2017) 
   - Worked on the core Android platform team to test over-the-air (OTA) upgrades on Qualcomm powered Android devices.
   - Performed fail-safe testing to ensure proper functionality during OTA updates and bootup.
