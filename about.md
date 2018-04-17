@@ -37,7 +37,7 @@ I'm passionate about applying my knowledge of computer science and machine learn
 <img src="/assets/reslife.png" >
 
 * Author at O'Reilly Media 
-* VP of UCLA ACM Artificial Intelligence 
+* President(2018-2019), Vice President(2017-2018) of UCLA ACM Artificial Intelligence
 * Coach with UCLA Special Olympics 
 * Peer Mentor with UCLA Engineering Mentorship Program 
 * UCLA Resident Assistant  
@@ -53,7 +53,7 @@ I'm passionate about applying my knowledge of computer science and machine learn
 
 ### Teaching
 
-As vice president of UCLA's ACM AI group, I've presented/co-presented on the following topics (with slides attached).
+As president of UCLA's ACM AI group, I've presented/co-presented on the following topics (with slides attached).
 
 * [ACM AI Intro Meeting](http://bit.ly/2xw2T18){:target="_blank"}
 * [Workshop #1: Linear Regression with Tensorflow](http://bit.ly/2hj5epX){:target="_blank"}
