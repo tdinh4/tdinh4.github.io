@@ -79,6 +79,7 @@ As part of ACM AI, we hold research paper reading group meetings.
 * *Emotional Agility* - Susan David
 * *Chasing the Scream* - Johann Hari
 * *The Elegant Universe* - Brian Greene
+* *10% Happier* - Dan Harris
 
 ### Contact me
 
