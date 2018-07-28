@@ -40,7 +40,7 @@ I'm passionate about applying my knowledge of computer science and machine learn
 * President(2018-2019), Vice President(2017-2018) of UCLA ACM Artificial Intelligence
 * Coach with UCLA Special Olympics 
 * Peer Mentor with UCLA Engineering Mentorship Program 
-* UCLA Resident Assistant  
+* UCLA Lead Resident Assistant(2018-2019), UCLA Resident Assistant(2017-2018)
 
 ### Published Writing
 
