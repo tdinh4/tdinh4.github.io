@@ -4,18 +4,19 @@ title: About
 permalink: /about/
 ---
 
-I'm a third year undergraduate student currently studying at UCLA and majoring in computer science. 
+I'm a 4th year undergraduate student currently studying at UCLA and majoring in computer science. Planning on graduating in the summer of 2019. **Looking for full-time opportunities**
 
 I'm passionate about applying my knowledge of computer science and machine learning to areas in healthcare where we can really engineer better solutions for helping doctors and taking care of patients. In my mind, machine learning and computer science really have the power to make the gradual shift to preventative instead of reactionary healthcare. If you're working in the healthcare or medical fields, don't hesitate to reach out if you think there's an opportunity for collaboration. Would love to discuss.
-
-**Email me if you're looking to collaborate on future projects. Always open to new opportunities**
 
 ### Internships
 
 <img src="/assets/clarifai.png" width="250">                    <img src="/assets/qualcomm.jpg" width="250">                     <img src="/assets/nrl.png" width="80">                     <img src="/assets/bu.gif" width="175">
 
 
-* **Machine Learning Intern at Clarifai** (Summer of 2018) 
+* **Applied Machine Learning Intern at Clarifai** (June 2018 - August 2018) 
+  - Created internal tools to check the accuracy of image labeling from human workforce services. 
+  - Built evaluation scripts to easily assess and visualize the performance of Clarifai's base image recognition models.
+  - Created demo webpages to showcase Clarifai's detection models during internal meetings.
 * **Software Engineering Intern at Qualcomm** (June 2017 - August 2017) 
   - Worked on the core Android platform team to test over-the-air (OTA) upgrades on Qualcomm powered Android devices.
   - Performed fail-safe testing to ensure proper functionality during OTA updates and bootup.
