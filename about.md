@@ -81,6 +81,7 @@ As part of ACM AI, we hold research paper reading group meetings.
 * *The Elegant Universe* - Brian Greene
 * *10% Happier* - Dan Harris
 * *Sapiens: A Brief History of Humankind* - Yuval Noah Harari 
+* *Born a Crime* - Trevor Noah
 
 ### Contact me
 
