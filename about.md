@@ -11,25 +11,10 @@ I'm a 4th year undergraduate student currently studying at UCLA and majoring in 
 <img src="/assets/clarifai.png" width="250">                    <img src="/assets/qualcomm.jpg" width="250">                     <img src="/assets/nrl.png" width="80">                     <img src="/assets/bu.gif" width="175">
 
 
-* **Applied Machine Learning Intern at Clarifai** (June 2018 - August 2018) 
-  - Created internal tools to check the accuracy of image labeling from human workforce services. 
-  - Built evaluation scripts to easily assess and visualize the performance of Clarifai's base image recognition models.
-  - Created demo webpages to showcase Clarifai's detection models during internal meetings.
-* **Software Engineering Intern at Qualcomm** (June 2017 - August 2017) 
-  - Worked on the core Android platform team to test over-the-air (OTA) upgrades on Qualcomm powered Android devices.
-  - Performed fail-safe testing to ensure proper functionality during OTA updates and bootup.
-  - Consolidated OTA projects into a unified location to achieve smooth upgrades with limited disruption to other modules.  
-  - Tools Used: Android Fastboot/ADB, OpenEmbedded, Bitbake
-* **Computer Engineer Intern at U.S Naval Research Lab** (June 2016 - September 2016)
-  - Developed object localization algorithms through convolutional neural networks for deployment on IBM's TrueNorth neuromorphic chip. 
-  - Wrote Matlab functions and shell scripts to format and preprocess datasets.
-  - Implemented a selective search and sliding window based approach to localization.
-  - Trained a convolutional neural network to place bounding boxes over a specific object of interest with a classification accuracy of 92.86%.
-  - Presented results to a group of engineers and upper level management at the conclusion of the internship.
-* **Research Intern in Boston RISE program** (June 2014 - August 2014)
-  - Participated in the Boston RISE summer internship program during the summer between my junior and senior years of high school.
-  - Completed an Electrical Engineering project under the guidance of Professor Ajay Joshi.
-  - Ran benchmarks on a Parallella board containing a 16 core Epiphany processor, analyzed results, and participated in a research poster session at the end of the program.
+* Applied Machine Learning Intern at Clarifai (June 2018 - August 2018) 
+* Software Engineering Intern at Qualcomm (June 2017 - August 2017) 
+* Computer Engineer Intern at U.S Naval Research Lab (June 2016 - September 2016)
+* Research Intern in Boston RISE program (June 2014 - August 2014)
 
 ### Experience
 <img src="/assets/oreily.png">                    <img src="/assets/acmai.png">                     <img src="/assets/specialo.jpg" >                                                                    
