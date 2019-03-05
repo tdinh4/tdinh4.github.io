@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I'm a 4th year undergraduate student currently studying at UCLA and majoring in computer science. Working to reinvent healthcare with [Forward](https://goforward.com/) after graduation. 
+I'm a 4th year undergraduate student currently studying at TAMUCC and majoring in computer science. 
 
 ### Internships
 
